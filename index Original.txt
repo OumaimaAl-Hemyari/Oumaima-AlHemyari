@@ -34,7 +34,7 @@
                 <h1 class="mt-2">Oumaima <br /> Al-Hemyari</h1>
                 <div class="mb-4" style="height: 22px;">
                     <h4 class="typed-text-output d-inline-block text-body"></h4>
-                    <div class="typed-text d-none">Business Administrator, Marketing Officer, Relationship Manager, ERP Specialist, Future Consultant in Smart Logistics & Digital Transformation </div>
+                    <div class="typed-text d-none">Business Administrator, Marketing Officer, Relationship Manager, ERP Specialist</div>
                 </div>
                 <div class="d-flex justify-content-center mt-auto mb-3">
                     <a class="mx-4" href="https://wa.me/message/WRKHOUAQPASSB1" target="_blank"><i class="fab fa-whatsapp icon"></i></a>
@@ -42,7 +42,7 @@
                     <a class="mx-4" href="https://www.linkedin.com/in/oumaima-al-hemyari-7b952b3b9" target="_blank"><i class="fab fa-linkedin-in icon"></i></a>
                 </div>
                 <div class="d-flex align-items-end justify-content-between">
-                    <a href="files/Oumaima_Al-Hemyari_CV.pdf" class="btn w-50 border-end" download="Oumaima_Al-Hemyari_CV.pdf">Download CV</a>
+                    <a href="files/Oumaima CV.pdf" class="btn w-50 border-end" download="Oumaima CV.pdf">Download CV</a>
                     <a href="tel:+966599059628" target="_blank" class="btn w-50 btn-scroll">Contact Me</a>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                         <h2 class="title position-relative pb-2 mb-4">About Me</h2>
                     </div>
                     <div class="col-12">
-                        <p>Dedicated professional with a Master's degree in Business Administration and a Bachelor's degree in English Language. Experienced in digital transformation, strategic agility, and organizational development. Proficient in ERP systems, business correspondence, and data analysis. Passionate about leveraging digital strategies and data analytics capabilities to enhance operational resilience, optimize smart logistics performance, and drive innovation in dynamic environments. My goal is to bridge the gap between academic research and real-world business applications by developing data-driven solutions that improve operational performance and strategic decision-making.</p>
+                        <p>Dedicated professional with a Master's degree in Business Administration and a Bachelor's degree in English Language. Experienced in digital transformation, strategic agility, and organizational development. Proficient in ERP systems, business correspondence, and data analysis. Passionate about leveraging digital strategies to enhance operational resilience and foster innovation in rapidly changing environments.</p>
                         <div class="row">
                             <div class="col-sm-8 py-1">
                                 <h5 class="d-inline text-primary">Name:</h5> Oumaima Mohammed Ahmed Saleh Al-Hemyari
@@ -100,25 +100,6 @@
                     <div class="col-sm-6">
                         <div class="skill mb-4">
                             <div class="d-flex justify-content-between">
-                                <p class="mb-2">Supply Chain & Logistics</p>
-                                <p class="mb-2">100%</p>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-
-                        <div class="skill mb-4">
-                            <div class="d-flex justify-content-between">
-                                <p class="mb-2">Business & Strategy</p>
-                                <p class="mb-2">100%</p>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                        <div class="skill mb-4">
-                            <div class="d-flex justify-content-between">
                                 <p class="mb-2">ERP Systems</p>
                                 <p class="mb-2">100%</p>
                             </div>
@@ -146,15 +127,6 @@
                         </div>
                     </div>
                     <div class="col-sm-6">
-                        <div class="skill mb-4">
-                            <div class="d-flex justify-content-between">
-                                <p class="mb-2">Analytics & AI</p>
-                                <p class="mb-2">100%</p>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
                         <div class="skill mb-4">
                             <div class="d-flex justify-content-between">
                                 <p class="mb-2">Digital Marketing</p>
@@ -192,7 +164,7 @@
             <div class="container bg-white py-5">
                 <div class="row px-3">
                     <div class="col-12">
-                        <h2 class="title position-relative pb-2 mb-4">Education</h2>
+                        <h2 class="title position-relative pb-2 mb-4">Education & Experience</h2>
                     </div>
                     <div class="col-12">
                         <div class="border-left border-primary pt-2 pl-4 ml-2">
@@ -207,94 +179,49 @@
                                 <h5 class="mb-1">Bachelor of English Language</h5>
                                 <p class="mb-2">Sana'a University | <small>2015 - 2018</small></p>
                                 <p>Completed comprehensive studies in English language, literature, and communication skills.</p>
-                                <h5>Academic Focus:</h5>
-                                <ul>
-                                <!-- <ul class="list-unstyled"> -->
-                                    <li class="mb-2">Smart Logistics performance </li>
-                                    <li class="mb-2">Artificial Intelligence in Logistics  </li>
-                                    <li class="mb-2">Business Analytics  </li>
-                                    <li class="mb-2">Digital Transformation  </li>
-                                    <li class="mb-2">Strategic Agility  </li>
-                                </ul>
-                                <h5>Future Plan:</h5>
-                                <p>I am preparing for a PhD in Business Administration with a focus on AI-driven data analytics capability to enhanace smart logistics and supply chain optimization.</p>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Education End -->
-
-
-            <!-- PROFESSIONAL PROFILE Start -->
-            <div class="container bg-white py-5">
-                <div class="row px-3">
-                    <div class="col-12">
-                        <h2 class="title position-relative pb-2 mb-4">Professional Profile</h2>
-                    </div>
-                    <div class="col-12">
-                        <div class="border-left border-primary pt-2 pl-4 ml-2">
-                            <div class="position-relative mb-4">
-                                <i class="fa fa-arrow-right text-primary position-absolute" style="top: 3px; left: -24px;"></i>
-                                <h5 class="mb-1">I am building a professional career in Supply Chain Management and Logistics with a strong focus on data-driven decision-making.</h5>
-                                <p class="mb-2">I am particularly interested in roles related to:</p>
-                                <ul>
-                                    <li class="mb-2">Supply Chain Operations </li>
-                                    <li class="mb-2">Logistics Coordination </li>
-                                    <li class="mb-2">Business Analysis </li>
-                                    <li class="mb-2">Sales & Marketing (Data-Driven Approach) </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- PROFESSIONAL PROFILE End -->
-
-            <!-- Work Experience Start -->
-            <div class="container bg-white py-5">
-                <div class="row px-3">
-                    <div class="col-12">
-                        <h2 class="title position-relative pb-2 mb-4">Work Experience</h2>
-                    </div>
-                    <div class="col-12">
-                        <div class="border-left border-primary pt-2 pl-4 ml-2">
                             <div class="position-relative mb-4">
                                 <i class="fa fa-arrow-right text-primary position-absolute" style="top: 3px; left: -24px;"></i>
                                 <h5 class="mb-1">Relationship and Marketing Officer</h5>
                                 <p class="mb-2">Best Sight Company, Sana'a | <small>2024</small></p>
-                                <ul>
-                                    <li class="mb-2">Planned and implemented digital marketing campaigns.</li>
-                                    <li class="mb-2">Analyzed market trends to identify opportunities and threats.</li>
-                                    <li class="mb-2">Organized marketing events and enhanced public relations.</li>
-                                    <li class="mb-2">Strengthened the company's reputation on social media.</li>
+                                <!-- <p>Planned and implemented digital marketing campaigns. Analyzed market trends to identify opportunities and threats. Organized marketing events and enhanced public relations. Strengthened the company's reputation on social media.</p> -->
+
+                                <ul class="list-unstyled">
+                                    <li class="mb-2">- Planned and implemented digital marketing campaigns.</li>
+                                    <li class="mb-2">- Analyzed market trends to identify opportunities and threats.</li>
+                                    <li class="mb-2">- Organized marketing events and enhanced public relations.</li>
+                                    <li class="mb-2">- Strengthened the company's reputation on social media.</li>
                                 </ul>
                             </div>
                             <div class="position-relative mb-4">
                                 <i class="fa fa-arrow-right text-primary position-absolute" style="top: 3px; left: -24px;"></i>
                                 <h5 class="mb-1">Customer Service Representative</h5>
                                 <p class="mb-2">Yemen Mobile Company, Sana'a | <small>2022</small></p>
-                                <ul>
-                                    <li class="mb-2">Provided detailed information about services to customers.</li>
-                                    <li class="mb-2">Handled customer complaints and resolved issues effectively.</li>
-                                    <li class="mb-2">Managed customer data entry and follow-ups.</li>
+                                <!-- <p>Provided detailed information about services to customers. Handled customer complaints and resolved issues effectively. Managed customer data entry and follow-ups.</p> -->
+
+                                <ul class="list-unstyled">
+                                    <li class="mb-2">- Provided detailed information about services to customers.</li>
+                                    <li class="mb-2">- Handled customer complaints and resolved issues effectively.</li>
+                                    <li class="mb-2">- Managed customer data entry and follow-ups.</li>
                                 </ul>
                             </div>
                             <div class="position-relative mb-4">
                                 <i class="fa fa-arrow-right text-primary position-absolute" style="top: 3px; left: -24px;"></i>
                                 <h5 class="mb-1">Secretary</h5>
                                 <p class="mb-2">Man Telecom Solution Company, Sana'a | <small>2019 - 2020</small></p>
-                                <ul>
-                                    <li class="mb-2">Organized meetings, appointments, and document archives.</li>
-                                    <li class="mb-2">Prepared reports for management.</li>
-                                    <li class="mb-2">Handled phone and email communication professionally.</li>
+                                <!-- <p>Organized meetings, appointments, and document archives. Prepared reports for management. Handled phone and email communication professionally.</p> -->
+
+                                <ul class="list-unstyled">
+                                    <li class="mb-2">- Organized meetings, appointments, and document archives.</li>
+                                    <li class="mb-2">- Prepared reports for management.</li>
+                                    <li class="mb-2">- Handled phone and email communication professionally.</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Work Experience End -->
+            <!-- Education End -->
 
             <!-- Services Start -->
             <div class="container bg-white pt-5 pb-3">
